@@ -5,10 +5,7 @@ This file contains licences accompanying the images in this folder.
 Files:
 
         Fitzwilliam.pdf
-        Fitzwilliam.eps
         FitzwilliamRed.pdf
-        FitzwilliamRed.eps
-
 Source:
 
         Provided by the college
@@ -23,12 +20,7 @@ Licence:
 
 File:
 
-        Queens.svg
-
-Derivative files:
-
         Queens.pdf
-        Queens.eps
 
 Source:
 
@@ -43,10 +35,6 @@ Licence:
 # St. John's College's shield
 
 File:
-
-        StJohns.png
-
-Derivative files:
 
         StJohns.eps
 
@@ -63,10 +51,6 @@ Licence:
 # Peterhouse's shield
 
 File:
-
-       Peterhouse.svg
-
-Derivative files:
 
        Peterhouse.pdf  (rsvg-convert -f pdf -o Peterhouse.pdf Peterhouse.svg)
 
@@ -85,11 +69,6 @@ Licence:
 
 File:
 
-        Trinity.svg
-
-Derivative files:
-
-        Trinity.eps
         Trinity.pdf
 
 Source:
@@ -104,11 +83,6 @@ Licence:
 
 File:
 
-        Clare.svg
-
-Derivative files:
-
-        Clare.eps
         Clare.pdf
 
 Source:
